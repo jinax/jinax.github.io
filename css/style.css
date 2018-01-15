@@ -74,7 +74,7 @@ a:hover {
 
 @media (min-width: 576px) {
 	#content{
-					padding-top: 40%;
+					padding-top: 25%;
 				}
 }
 
@@ -89,7 +89,6 @@ a:hover {
 					padding-top: 25%;
 				}	
 }
-
 
 @media (min-width: 1200px) {
 	#content{
