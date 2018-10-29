@@ -1,6 +1,6 @@
 # jinax.github.io
 
-webpage at [http://jinachoe.com](http://jinachoe.com)
+webpage at [jinachoe.com](https://jinachoe.com)
 
 background image: it's me, by [mtwood](https://www.flickr.com/photos/mtwood/)
 
