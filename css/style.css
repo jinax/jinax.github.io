@@ -12,13 +12,15 @@ nav {
 	align-items: center;
 	justify-content: space-between;
 	position: sticky;
-	top: -1px;
+	position: -webkit-sticky;
+	top: 0;
 	overflow: hidden;
 	background-color: #333;
 }
 
 nav .links a {
 	font-family: 'Lato', sans-serif;
+	font-size: 1em;
 	text-transform: uppercase;
 	cursor: pointer;
 	padding: 1em;
@@ -52,12 +54,10 @@ nav .brand {
 	flex-flow: row wrap;
 	justify-content: flex-start;
 	align-items: center;
-	/* align-content: space-around; */
 }
 
 .hero-image p {
 	margin-left: 20vh;
-	/* border: 1px solid black; */
 }
 
 .hero-image p a	{
@@ -122,11 +122,10 @@ footer a:hover {
 
 @media screen and (max-width: 600px) {
 	nav .brand {
-		font-size: 1em;
+		font-size: 1.4em;
 	}
 	nav .links a {
-		padding: 0.5em;
-		font-size: 0.8em;
+		padding: 0.8em;
 	}
 	.hero-image p {
 		margin-left: 3em;
