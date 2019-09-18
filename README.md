@@ -8,4 +8,4 @@ _if you want to use the code, please use another background image._
 
 #### made with:
 * [bootstrap](http://getbootstrap.com/)
-* [fontawesome](https://fontawesome.com/) old version
+* [fontawesome](https://fontawesome.com/)
