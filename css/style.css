@@ -57,14 +57,16 @@ nav .brand {
 }
 
 .hero-image p {
-	margin-left: 20vh;
+	margin-left: 10vh;
+	width: 30%;
 }
 
 .hero-image p a	{
 	text-decoration: none;
 	font-family: 'Lato', sans-serif;
 	font-size: 1.5em;
-	color: #f2f2f2f5;
+	color: #f2f2f2ca;
+	
 }
 .form-google {
 	display: flex;
@@ -130,10 +132,10 @@ footer a:hover {
 		padding: 0.9em 0.4em 0.9em;
 	}
 	.hero-image p {
-		margin-left: 3em;
-		width: 50%;
+		margin-left: 2em;
+		width: 30%;
 	}
 	.hero-image p a{
-		font-size: 1.2em;
+		font-size: 1.1em;
 	}
 }
